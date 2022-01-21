@@ -1,0 +1,46 @@
+C:\Users\EKER\source\repos\SA\SA\bin\Debug\SA.exe.config
+C:\Users\EKER\source\repos\SA\SA\bin\Debug\SA.exe
+C:\Users\EKER\source\repos\SA\SA\bin\Debug\SA.pdb
+C:\Users\EKER\source\repos\SA\SA\obj\Debug\SA.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\SA\SA\obj\Debug\SA.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\SA\SA\obj\Debug\SA.exe
+C:\Users\EKER\source\repos\SA\SA\obj\Debug\SA.pdb
+C:\Users\Barış\Desktop\SA\SA\bin\Debug\SA.exe.config
+C:\Users\Barış\Desktop\SA\SA\obj\Debug\SA.exe
+C:\Users\Barış\Desktop\SA\SA\obj\Debug\SA.pdb
+C:\Users\Barış\Desktop\SA\SA\bin\Debug\SA.exe
+C:\Users\Barış\Desktop\SA\SA\bin\Debug\SA.pdb
+C:\Users\Barış\Desktop\SA\SA\obj\Debug\SA.csprojResolveAssemblyReference.cache
+C:\Users\Barış\Desktop\Esra Eker Sayısal Analiz\SA\bin\Debug\SA.exe.config
+C:\Users\Barış\Desktop\Esra Eker Sayısal Analiz\SA\obj\Debug\SA.exe
+C:\Users\Barış\Desktop\Esra Eker Sayısal Analiz\SA\obj\Debug\SA.pdb
+C:\Users\Barış\Desktop\Esra Eker Sayısal Analiz\SA\obj\Debug\SA.csprojResolveAssemblyReference.cache
+C:\Users\Barış\Desktop\Esra Eker Sayısal Analiz\SA\bin\Debug\SA.exe
+C:\Users\Barış\Desktop\Esra Eker Sayısal Analiz\SA\bin\Debug\SA.pdb
+C:\Users\Barış\Desktop\E.E Sayısal Analiz\SA\bin\Debug\SA.exe.config
+C:\Users\Barış\Desktop\E.E Sayısal Analiz\SA\obj\Debug\SA.exe
+C:\Users\Barış\Desktop\E.E Sayısal Analiz\SA\obj\Debug\SA.pdb
+C:\Users\Barış\Desktop\E.E Sayısal Analiz\SA\bin\Debug\SA.exe
+C:\Users\Barış\Desktop\E.E Sayısal Analiz\SA\bin\Debug\SA.pdb
+C:\Users\Barış\Desktop\E.E Sayısal Analiz\SA\obj\Debug\SA.csprojResolveAssemblyReference.cache
+C:\Users\EKER\Desktop\E.E Sayısal Analiz\SA\bin\Debug\SA.exe.config
+C:\Users\EKER\Desktop\E.E Sayısal Analiz\SA\bin\Debug\SA.exe
+C:\Users\EKER\Desktop\E.E Sayısal Analiz\SA\bin\Debug\SA.pdb
+C:\Users\EKER\Desktop\E.E Sayısal Analiz\SA\obj\Debug\SA.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\E.E Sayısal Analiz\SA\obj\Debug\SA.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\E.E Sayısal Analiz\SA\obj\Debug\SA.exe
+C:\Users\EKER\Desktop\E.E Sayısal Analiz\SA\obj\Debug\SA.pdb
+C:\Users\EKER\Desktop\EE Sayısal Analiz\SA\bin\Debug\SA.exe.config
+C:\Users\EKER\Desktop\EE Sayısal Analiz\SA\bin\Debug\SA.exe
+C:\Users\EKER\Desktop\EE Sayısal Analiz\SA\bin\Debug\SA.pdb
+C:\Users\EKER\Desktop\EE Sayısal Analiz\SA\obj\Debug\SA.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\EE Sayısal Analiz\SA\obj\Debug\SA.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\EE Sayısal Analiz\SA\obj\Debug\SA.exe
+C:\Users\EKER\Desktop\EE Sayısal Analiz\SA\obj\Debug\SA.pdb
+C:\Users\EKER\Desktop\Dersler\sayısal analiz 1\Esra Eker Sayısal Analiz\SA\bin\Debug\SA.exe.config
+C:\Users\EKER\Desktop\Dersler\sayısal analiz 1\Esra Eker Sayısal Analiz\SA\bin\Debug\SA.exe
+C:\Users\EKER\Desktop\Dersler\sayısal analiz 1\Esra Eker Sayısal Analiz\SA\bin\Debug\SA.pdb
+C:\Users\EKER\Desktop\Dersler\sayısal analiz 1\Esra Eker Sayısal Analiz\SA\obj\Debug\SA.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\Dersler\sayısal analiz 1\Esra Eker Sayısal Analiz\SA\obj\Debug\SA.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\Dersler\sayısal analiz 1\Esra Eker Sayısal Analiz\SA\obj\Debug\SA.exe
+C:\Users\EKER\Desktop\Dersler\sayısal analiz 1\Esra Eker Sayısal Analiz\SA\obj\Debug\SA.pdb
