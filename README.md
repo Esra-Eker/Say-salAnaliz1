@@ -1,1 +1,1 @@
-# Say-salAnaliz1
+# SayisalAnaliz1
